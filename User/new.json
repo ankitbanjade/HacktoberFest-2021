@@ -1,0 +1,15 @@
+{
+    "firstName": "Ankit",
+    "lastName": "Banjade",
+    "gender": "man",
+    "age": 24,
+    "address": {
+        "streetAddress": "Palpa",
+        "city": "Tansen",
+        "state": "Lumbini",
+        "postalCode": "32500"
+    },
+    "phoneNumbers": [
+        { "type": "home", "number": "7383627627" }
+    ]
+}
